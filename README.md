@@ -14,6 +14,8 @@ Also, a post-processing assets can be downloaded from asset store.
 ## Usage
 Needs to be downloaded to an Oculus Go device to be used/ played.
 
+![image](https://user-images.githubusercontent.com/47862570/174457490-b0a25a8d-7d4a-42b1-b583-6d3fd3292a11.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
